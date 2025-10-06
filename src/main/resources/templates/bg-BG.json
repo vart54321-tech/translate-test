@@ -1,0 +1,1870 @@
+{
+    "MENU": {
+        "HOME": "Home page",
+        "ADMIN": {
+            "TITLE": "Admin"
+        },
+        "ZONE": {
+            "TITLE": "Domain zones"
+        },
+        "DOMAIN": {
+            "TITLE": "Domains",
+            "SEARCH": "Search domain"
+        },
+        "WHOISCONTACT": {
+            "TITLE": "WHOIS Template"
+        },
+        "RESELLER": {
+            "TITLE": "Resellers"
+        },
+        "PRICE_LIST": {
+            "TITLE": "Price lists"
+        },
+        "PRICE": {
+            "TITLE": "Prices"
+        },
+        "DISCOUNT": {
+            "TITLE": "Discounts"
+        },
+        "BILLING": {
+            "TITLE": "Billing"
+        },
+        "CLIENT": {
+            "TITLE": "Client"
+        },
+        "USER": {
+            "TITLE": "Users"
+        },
+        "PAYMENT": {
+            "TITLE": "Payments"
+        },
+        "NS_RECORD": {
+            "TITLE": "NS records"
+        },
+        "INVOICE": {
+            "TITLE": "Invoice"
+        },
+        "ACCOUNT": {
+            "TITLE": "Account",
+            "HEADER": "My account",
+            "SETTINGS": "Account settings",
+            "CHANGEPASSWORD": "Security",
+            "AUTH2F": "Two-factor authentication"
+        },
+        "SYSTEM": {
+            "TITLE": "System",
+            "LANGUAGE": "Language"
+        },
+        "CART": {
+            "TITLE": "My cart",
+            "CHECKOUT": "Pay"
+        },
+        "DATA": {
+            "BALANCE": "Balance",
+            "BILLING": "Billing",
+            "INVOICE": "Invoice"
+        },
+        "LOG": {
+            "TITLE": "Search query log"
+        },
+        "STOP_LIST": {
+            "TITLE": "Stop list"
+        },
+        "AFFILIATE": {
+            "TITLE": "Affiliate"
+        },
+        "PAGE_NAVIGATE": {
+            "DOMAINS": "My domains",
+            "BALANCE": "Billing",
+            "INVOICE": "Invoice",
+            "AFFILIATE": "Affiliate",
+            "STORE": "Store",
+            "TRANSFER": "Transfer",
+            "PAYMENT_METHODS": "Linked Cards",
+            "SITES": "My sites"
+        },
+        "SEARCH": {
+            "PLACEHOLDER": "Enter domain name",
+            "ACTION": "Search"
+        }
+    },
+    "COMMON": {
+        "ACTION": {
+            "SUBMIT": "Submit",
+            "CANCEL": "Cancel",
+            "CLOSE": "Close",
+            "CONFIRM": {
+                "TITLE": "Confirm",
+                "YES": "Yes"
+            },
+            "SAVE": {
+                "TITLE": "Save",
+                "SUCCESS": "The entry was successfully saved!",
+                "ERROR": "Please check the fields and try saving again."
+            },
+            "LOGOUT": "Logout",
+            "LOGIN": "Login",
+            "PAY": "Pay invoice",
+            "LIST": {
+                "TITLE": "To list"
+            },
+            "NEXT": {
+                "TITLE": "Next"
+            },
+            "BACK": {
+                "TITLE": "Back"
+            },
+            "SAVETOLIST": {
+                "TITLE": "Save and to list"
+            },
+            "ADD": {
+                "TITLE": "Add"
+            },
+            "CREATE": {
+                "TITLE": "Create"
+            },
+            "EDIT": {
+                "TITLE": "Edit"
+            },
+            "BLOCK": {
+                "TITLE": "Block",
+                "CONFIRM": "Are you sure you want to block the entry?",
+                "SUCCESS": "Entry successfully locked!",
+                "ERROR": "The recording could not be locked"
+            },
+            "UNBLOCK": {
+                "TITLE": "Unblock",
+                "CONFIRM": "Are you sure you want to unlock the entry?",
+                "SUCCESS": "The entry was successfully unlocked!",
+                "ERROR": "The recording could not be unlocked"
+            },
+            "EDITPOS": {
+                "TITLE": "Edit positions"
+            },
+            "REMOVE": {
+                "TITLE": "Delete",
+                "CONFIRM": "Are you sure you want to delete the entry?",
+                "SUCCESS": "The entry was successfully deleted!",
+                "ERROR": "The entry could not be deleted."
+            },
+            "LOCK": {
+                "TITLE": "Lock",
+                "SUCCESS": "The entry was successfully locked!",
+                "ERROR": "The entry could not be locked."
+            },
+            "FILTER": {
+                "TITLE": "Filter"
+            },
+            "SEARCH": {
+                "TITLE": "Search"
+            },
+            "RESET": {
+                "TITLE": "Reset"
+            },
+            "EXPORT": {
+                "TITLE": "Export to Excel",
+                "SUCCESS": "A task to create a report has been successfully created"
+            },
+            "DOWNLOAD": {
+                "TITLE": "Download",
+                "ERROR": "File not found"
+            },
+            "COOKIES": {
+                "TITLE": "Agreement",
+                "BODY": "By continuing to browse, you are agreeing to our use of cookies as explained in our Cookie Policy.",
+                "MORE": "Learn more",
+                "CONFIRM": "Accept"
+            },
+            "AGREEMENT": {
+                "SURE": "I agree with",
+                "USERAGREEMENT": "user agreement",
+                "TERMSANDCONDITIONS": "terms and conditions",
+                "CONFIRM": "OK"
+            },
+            "INTEGRATION": {
+                "TITLE": "Integration",
+                "BODY": "Allow integration with external system?",
+                "CONFIRM": "Yes",
+                "CANCEL": "No",
+                "ERROR": "The token has expired!"
+            },
+            "ADDTOCART": {
+                "TITLE": "Add to cart",
+                "INCART": "Remove from cart"
+            },
+            "SWIPE": "Swipe the table for review",
+            "ENABLE2AF": {
+                "TITLE": "Enable"
+            },
+            "DISABLE2AF": {
+                "TITLE": "Disable"
+            },
+            "OFFERPRICE": "Offer price",
+            "VIEWINVOICE": "View invoice",
+            "HOWBUY": "How to buy?",
+            "TODOMAIN": "To domain",
+            "TOTALFOUND": "Elements",
+            "SEND": "Send",
+            "LINK_CARD": "Link card",
+            "PAY_NOW": "Pay Now",
+            "COMPLETE_PAYMENT": "Complete Payment",
+            "BUY_AT_SEDO": "Buy at Sedo",
+            "CONTINUE_TO_CART": "Continue to Cart",
+            "ADD_TO_CARD": "Add to Cart",
+            "GENERATE_MORE_DOMAINS": "Generate More Domains",
+            "PROCEED": "Proceed",
+            "GO_TO_BUILDER": "Site builder"
+        },
+        "LABELS": {
+            "PROCESS": "Process...",
+            "TOP_UP": "Top up",
+            "SUBMIT_Q": "A you shure?",
+            "ID": "ID",
+            "EXPIRED": "Expired",
+            "CARD_NUMBER": "Card Number",
+            "DEFAULT": "Default",
+            "SET_DEFAULT": "Set Default",
+            "PAYMENT_METHOD_NOT_LINKED": "Unfortunately, you did not link the payment card",
+            "EMPTY_LIST": "Empty list",
+            "EMAIL_ADDRESS": "Email address",
+            "CF_PROXIED_FULL": "Proxied by Cloudflare",
+            "CF_PROXIED_SHORT": "Proxied",
+            "CF_USED": "Use Cloudflare's Proxy",
+            "LOGGED_IN": "Logged in as",
+            "LOG_OUT": "Log out",
+            "UPDATE_SYSTEM": "System update",
+            "UPDATE_SYSTEM_ALT": "The platform is updating, wait just a couple of minutes, please...",
+            "EXPIRING": "Expiring",
+            "REDIRECT_LINK": "Redirect link",
+            "ADD_CARD": "Add Card",
+            "PASSWORD": "Password",
+            "LOG_IN": "Log in",
+            "LOG_IN_WITH_VER_LINK": "Log in with a verification link",
+            "DONT_HAVE_ACC_Q": "Don’t have an account?",
+            "FORGOT_PASS_Q": "Forgot Password?",
+            "HAVE_AN_ACC_Q": "Have an account?",
+            "WRONG_EMAIL_OR_PASS": "Wrong email or password",
+            "GO_TO_LOGIN": "Go to login"
+        },
+        "NOTIFICATIONS": {
+            "ERROR": {
+                "TITLE": "Something went wrong!",
+                "DESCRIPTION": "Please try again"
+            },
+            "SUCCESS": {
+                "TITLE": "Success!",
+                "DESCRIPTION": "Action performed"
+            }
+        },
+        "REDIRECT": {
+            "COMMON": "In the process of redirecting",
+            "TITLE": "Redirect",
+            "DESCRIPTION": "For web redirect to work, the domain must be maintained on our NS. If sitename.{{domainZone}} already exists and works, it will stop working after web-redirect activation (web-redirect setting has higher priority). Activation and deactivation of the service is performed within one hour"
+        },
+        "VALIDATE": {
+            "REQUIRED": "Required field",
+            "EMAIL": "The string is not an email address",
+            "DOMAINNAMEUNIQUE": "A domain with the same name already exists",
+            "PATTERN": "Wrong format",
+            "WRONGURL": "String is not a URL",
+            "MINLENGTH": "Minimum password length 8 characters",
+            "MATCHPASSWORD": "Passwords do not match",
+            "WRONGPASSWORD": "Wrong password",
+            "VALIDATEPHONENUMBER": "Wrong phone number",
+            "WRONGCODE2F": "Wrong code",
+            "PATTERNCODE2F": "Code must consist of 6 digits",
+            "INVALIDNAME": "Invalid name",
+            "SETNS": "For set NS servers for domain use \"NS settings\"",
+            "A": "Must be IPv4 address",
+            "AAAA": "Must be IPv6 address",
+            "CNAME": "Must be name",
+            "MX": "Must be name of mail server",
+            "NS": "Must be name of DNS server",
+            "TXT": "The number of characters is exceeded. Maximum characters amount - 2048."
+        },
+        "ERROR": {
+            "500": {
+                "TITLE": "Internal Server Error",
+                "MESS": "Internal server error. Please contact your administrator."
+            },
+            "404": {
+                "TITLE": "Page not found"
+            },
+            "CAPTCHA": {
+                "TITLE": "Recaptcha",
+                "MESS": "Something went wrong. Please, reload the page."
+            },
+            "FORM": {
+                "TITLE": "Form error",
+                "MESS": "Check the correctness of filling in the fields and resubmit the application."
+            },
+            "COMMON": {
+                "TITLE": "Something went wrong! Please try again"
+            },
+            "PAYMENT": {
+                "UNKNOWN": {
+                    "TITLE": "Unknown payment method",
+                    "DESCRIPTION": "Please choose a payment method from the list"
+                }
+            },
+            "DOUBLE_DATA": {
+                "TITLE": "You are duplicating data",
+                "DESCRIPTION": "An entry with this data already exists, please check the data and try again."
+            }
+        },
+        "PAGER": {
+            "TOTAL": "Total items",
+            "SHOW": "Show",
+            "SHOWING": "of {{nbPages}} pages",
+            "ENTITY": "entities",
+            "SELECTED": "Selected",
+            "SHOWCOLUMN": "Show\\Hide columns",
+            "EMPTY": "No data to display",
+            "PER_PAGE": "Items per page"
+        },
+        "MESS": {
+            "ALL": "All",
+            "YES": "Yes",
+            "NO": "No",
+            "OR": "Or",
+            "AND": "And",
+            "ACTIVE": "Active",
+            "BLOCKED": "Blocked",
+            "CONFIRMED": "Confirmed",
+            "NOTCONFIRMED": "Not confirmed",
+            "NEXTCONFIRMVIA": "You can request a new confirmation link via",
+            "CONFIRMSAVELABEL": "When the information is saved, a confirmation link will be sent to the specified address"
+        },
+        "TIME": {
+            "SECOND": "second",
+            "SECONDS": "seconds",
+            "SEC": "sec",
+            "MINUTE": "minute",
+            "MINUTES": "minutes",
+            "HOUR": "hour",
+            "HOURS": "hours",
+            "DAY": "day",
+            "DAYS": "days",
+            "YEARS": "years"
+        },
+        "FOOTER": {
+            "MESS1": "Privacy policy",
+            "MESS2": "Terms of Service",
+            "MESS3": "Refund policy",
+            "MESS4": "Write to us",
+            "MESS5": "Second level domain information"
+        },
+        "CHOOSE_PAYMENT": "Choose payment method",
+        "CHANGE_PAYMENT": "Change payment method",
+        "PURCHASE_CARD": {
+            "PREMIUM": "Premium",
+            "TITLES": {
+                "ENTER_CONFIRM_CODE": "Please enter the confirmation code",
+                "DOMAIN_BUSY": "Domain taken",
+                "SELECT_PERIOD": "Select the period of use of the domain:",
+                "WHATS_INCLUDED": "What’s included",
+                "KEYWORDS": "Keywords",
+                "CATEGORIES": "Categories",
+                "CHAT": "Chat with support:",
+                "UNCERTAIN_PAYMENT_SYSTEM": "The payment system for your region is uncertain"
+            },
+            "LABELS": {
+                "YEAR_LOWERCASE": "year",
+                "YEARS_CAPITALIZE": "Years",
+                "HIDE_CAPITALIZE": "Hide",
+                "TOTAL_CAPITALIZE": "Total",
+                "HIDE_DETAILS": "Hide your contact details:",
+                "OFFER_PRICE": "offer your price",
+                "BUY_NOW": "Buy Now",
+                "GET_IT_WITH_PROMOCODE": "Get It",
+                "COUPON_ERROR": "Coupon error",
+                "COUPON_ALLOWED": "Coupon allowed!",
+                "DONT_USE": "Dont use",
+                "IF_YOU_HAVE_PROMOCODE": "If you have promocode",
+                "HERE_LOWERCASE": "use it here",
+                "SEND": "Send",
+                "NOTICED_YOU_ARE_NOT_REG": "We noticed that you are not registered. Enter your email address so we can send you a verification code to confirm it.",
+                "SIGN_IN_LOWERCASE": "sign in",
+                "OR_CAPITALIZE": "Or",
+                "REG_DIFFERENT": "with form or social networks",
+                "PROMOCODE": "Promocode",
+                "PREMIUM": {
+                    "STR_START": "This is the name of a premium domain, to buy it follow this",
+                    "STR_LINK": "link"
+                }
+            },
+            "INFO": {
+                "1": "Free SSL certificate support",
+                "2": "Cloudflare integration",
+                "3": "One click redirect to any URL"
+            }
+        }
+    },
+    "AUTH": {
+        "TITLE": {
+            "LOGIN": "Glad to see you again!",
+            "FORGOT": "Forgot password",
+            "CONFIRMEMAIL": "Confirm email",
+            "RESET": "Reset password",
+            "REG": "Sign Up",
+            "CONFIRMREG": "Confirmation of registration",
+            "SOCIAL": "Sign up using social networks",
+            "CHECK2FA": "2-Step Verification"
+        },
+        "ACTION": {
+            "LOGIN": "Login",
+            "FORGOT": "Forgot password",
+            "SIGNIN": "Login",
+            "SIGNUP": "Sign up",
+            "RESET": "Reset",
+            "CONFIRM": "Confirm"
+        },
+        "VALIDATE": {
+            "REQEMAIL": "Enter email",
+            "REQPASSWORD": "Enter password",
+            "CONFIRMPASSWORD": "Confirm password",
+            "WRONGEMAIL": "Wrong email",
+            "INCORRECT": "wrong login or password",
+            "EMAILS_DONT_MATCH": "Emails don't match",
+            "NOTFOUNDEMAIL": "The user with the specified email was not found",
+            "REQCODE": "Enter the code from the email message",
+            "WRONGCODE": "Wrong code",
+            "REQNEWPASSWORD": "Enter new password",
+            "REQCONFIRMPASSWORD": "Confirm new password",
+            "LENGTHPASSWORD": "Minimum 8 characters",
+            "MATCHPASSWORD": "Password mismatch",
+            "REQFNAME": "Enter first name",
+            "REQLNAME": "Enter last name",
+            "EMAILUNIQUE": "The user with the specified email already exists",
+            "ERRORCREATE": "Error occured while creating user",
+            "REQCODE2FA": "Enter the code from Google Authenticator app",
+            "ERRORLOGINSOCIAL": "Error logging in via social network",
+            "ERROR_LINK": "Incorrect or outdated link"
+        },
+        "FIELD": {
+            "EMAIL": "Email",
+            "PASSWORD": "Password 8 characters or more",
+            "NEWPASSWORD": "New password",
+            "CONFIRMPASSWORD": "Confirm password",
+            "CODE": "Code from mail message",
+            "FNAME": "First name",
+            "LNAME": "Last name",
+            "CODE2FA": "Code"
+        },
+        "LABELS": {
+            "CONFIRM_EMAIL": "Confirm email",
+            "SEND_AGAIN": "Send again",
+            "LINK_HAS_BEEN_SENT": "A confirmation link has been sent to this address",
+            "CONFIRMED": "Confirmed",
+            "PASS_MUST_CREATED": "Password must be created",
+            "CREATE_WITH_EXISTING_EMAIL": "Create with an existing email",
+            "CREATE_NEW_USER": "Create a new user with this email:"
+        },
+        "MESS": {
+            "LOGIN": "First time here?",
+            "REG": "Already have an account?",
+            "READTERM": "I have read and agree with",
+            "TERM": "the Terms of service",
+            "RESET": {
+                "TITLE": "Reset password",
+                "MESS": "Password updated successfully!"
+            },
+            "FORGOT": {
+                "TITLE": "Forgot password",
+                "BODY": "Confirmation code will be sent to your email address"
+            },
+            "CHECK2FA": "Get a verification code from the Google Authenticator app",
+            "ERROR2FA": {
+                "TITLE": "2-Step Verification",
+                "MESS": "Invalid code"
+            }
+        },
+        "NOTIFICATIONS": {
+            "REG_BY_EMAIL_CONFIRM": {
+                "TITLE": "Success!",
+                "DESCRIPTION": "A link has been sent to your e-mail address. Please click on it to complete your registration."
+            },
+            "LOGIN_LINK_UNKNOWN": {
+                "TITLE": "",
+                "DESCRIPTION": "Unknown or obsolete code"
+            },
+            "CLIENT_NOT_FOUND": {
+                "TITLE": "Client not found",
+                "DESCRIPTION": "The client with the e-mail specified when creating the link does not exist and the link is generated for login, not for creating a new client"
+            },
+            "LOGIN_NOT_POSSIBLE": {
+                "TITLE": "Login not possible",
+                "DESCRIPTION": "The client exists in the system, but login is not possible"
+            }
+        }
+    },
+    "AFFILIATE": {
+        "TITLE": "Affiliate links",
+        "NAVIGATION": {
+            "LINKS": {
+                "TITLE": "Links"
+            },
+            "SIGNUPS": {
+                "TITLE": "Signups"
+            },
+            "SALES": {
+                "TITLE": "Sales"
+            },
+            "SIGNUPS_STATS": {
+                "TITLE": "Signups stats"
+            },
+            "SALES_STATS": {
+                "TITLE": "Sales stats"
+            }
+        },
+        "USER": {
+            "SUMMARY": "Affiliate summary"
+        },
+        "LINK": {
+            "SUMMARY": "Affiliate links summary"
+        },
+        "HELPER": "How to participate in the affiliate program",
+        "ACTION": {
+            "CREATE": "Create",
+            "SAVED": "Link created successfully!",
+            "SEARCH": "Search",
+            "SHARE": "Share",
+            "CLEAR": "Clear",
+            "SAVE": "Save",
+            "CANCEL": "Cancel",
+            "FILTERS": "Filters",
+            "RESET": "Reset",
+            "COPY": "Copy",
+            "CLOSE": "Close"
+        },
+        "COMPONENTS": {
+            "CREATELINK": {
+                "TITLE": "Create new link",
+                "SUCCESS": "Link created successfully!",
+                "ERROR": "Something went wrong! Please try again"
+            },
+            "EDITLINK": {
+                "TITLE": "Edit link",
+                "SUCCESS": "Link edit successfully!",
+                "ERROR": "Something went wrong! Please try again"
+            },
+            "DELETELINK": {
+                "TITLE": "Delete link",
+                "SUCCESS": "Link delete successfully!",
+                "ERROR": "You cannot delete a link because it is already in use"
+            },
+            "COPYTEXT": {
+                "TITLE": "Copy link",
+                "SUCCESS": "The link copied successfully!",
+                "ERROR": "Something went wrong! Please try again"
+            }
+        },
+        "FIELD": {
+            "ID": "ID",
+            "GROUPBY": "Group by",
+            "COUNTRY": "Country",
+            "COUNT": "Hits count",
+            "CREATEDAT": "Created at",
+            "LASTHITAT": "Last hit at",
+            "AFFILIATETOKEN": "Affiliate token",
+            "DESCRIPTION": "Description",
+            "OWNEREMAIL": "Owner email",
+            "AFFILIATEEMAIL": "Affiliate referer",
+            "AFFILIATEDESCRIPTION": "Affiliate link description",
+            "STRICTSEARCH": "Strict search",
+            "LINK": "Link",
+            "LINKNAME": "Link Name",
+            "DATERANGE": "Date Range",
+            "DATE": "Date",
+            "STATUS": "Status",
+            "NOTE": "Note",
+            "STRICTMODE": "Strict mode",
+            "TYPE": "Type",
+            "AMOUNTRANGE": "Amount range",
+            "AMOUNTFROM": "Amount from",
+            "AMOUNTTO": "Amount to",
+            "FROM": "From",
+            "TO": "To"
+        },
+        "TABLE": {
+            "CREATION_DATE": "Creation Date",
+            "LINK": "Link",
+            "LINK_NAME": "Link name",
+            "STATUS": "Status",
+            "NOTE": "Note",
+            "ACTIONS": "Actions",
+            "SALE_DATE": "On-sale Date",
+            "AFFILIATE_PAY_AMOUNT": "Affiliate pay amount",
+            "TYPE": "type",
+            "EMAIL": "Email",
+            "SIGNUP_DATE": "Signup date",
+            "QNT": "Quantity",
+            "AMOUNT": "Amount"
+        },
+        "FILTERS": {
+            "DAY": "Day",
+            "WEEK": "Week",
+            "MONTH": "Month",
+            "YEAR": "Year",
+            "LINK": "Link",
+            "LINK_NAME": "Link Name",
+            "ACTIVE": "Active",
+            "LOCKED": "Locked",
+            "SALE": "Sale",
+            "RENEW": "Renew",
+            "HIDE": "Hide",
+            "ALL": "All"
+        },
+        "GROUPBY": {
+            "COUNTRY": "Country",
+            "CREATEDAT": "Created at",
+            "AFFILIATETOKEN": "Affiliate token",
+            "AFFILIATEEMAIL": "Affiliate referer",
+            "AFFILIATEDESCRIPTION": "Affiliate link description",
+            "OWNEREMAIL": "User email",
+            "SIGNUPDATE": "Signup Date"
+        }
+    },
+    "DOMAIN": {
+        "TITLE": "Domains",
+        "ROOT_PAGE_DESCRIPTION": "Click domain to view details",
+        "SEARCHTITLE": "Find and register a new domain",
+        "HELPER": "How to add a custom domain",
+        "ACTION": {
+            "CREATE": "Create domain",
+            "EDIT": "Edit domain",
+            "SAVED": "Domain created successfully!",
+            "SEARCH": "Search",
+            "RESTORE_AND_RENEW": "Restore and Renew"
+        },
+        "LABELS": {
+            "T_OFF_REDIRECT": "To activate this section, turn off the redirect",
+            "T_OFF_REDIRECT_AND_SET_DEFAULT_NS": "To activate this section, turn off the redirect and/or set the default NS settings.",
+            "DONT_USE_DEFAULT_NS_SERVERS": "You cannot use the default NS servers"
+        },
+        "LOCK_STATUSES": {
+            "EXPIRED": "The domain has expired. It will be deleted in {{ daysBeforeDelete }} days",
+            "LOCK_BY_ADMIN": "The domain has been blocked by the administrator. Contact the support service.",
+            "LOCK_BY_CLIENT": "The domain has been blocked by the client.",
+            "PENDING_CREATE": "Please pay for the domain purchase."
+        },
+        "FIELD": {
+            "REGDATE": "Reg. date",
+            "EXPIREDAT": "Exp. Date",
+            "DOMAIN": "Domain",
+            "CLIENT": "Client",
+            "REGCONTACT": "WHOIS Reg contact",
+            "ADMCONTACT": "WHOIS Admin contact",
+            "TECHCONTACT": "WHOIS Tech contact",
+            "OWNEREMAIL": "E-mail",
+            "OWNERNAME": "Name",
+            "OWNERSURNAME": "Surname",
+            "REFID": "Ref. ID",
+            "REFEMAIL": "Ref. E-mail",
+            "RESELLER": "Reseller",
+            "STATE": "State",
+            "HIDEDETAILS": "Hide details",
+            "AUTORENEW": "Auto renew",
+            "REDIRECT": "Redirect",
+            "NS1": "NS1",
+            "NS2": "NS2",
+            "NS3": "NS3",
+            "NS4": "NS4",
+            "NOTE": "Note",
+            "ZONE": "Zone"
+        },
+        "TABLE": {
+            "DOMAIN_NAME": "Name",
+            "REG_AT": "Registered At",
+            "EXP_AT": "Expired At",
+            "HIDE_DETAILS": "Hide Details",
+            "PRIVACY": "Privacy",
+            "AUTORENEW": "Autorenew",
+            "REDIRECT": "Redirect",
+            "SELECTED_LABEL": "Selected",
+            "SELECT_ALL_DOMAINS": "Select all domains"
+        },
+        "REDIRECT_MODAL": {
+            "URL_PLACEHOLDER": "URL for redirect"
+        },
+        "SORTING": {
+            "LABEL_PREDICATE": "Sort by",
+            "ORDER_PREDICATE": "Order",
+            "NAME": "Domain Name",
+            "EXPIRED_AT": "Expired At",
+            "ASC": "Ascending",
+            "DESC": "Descending"
+        },
+        "MSG": {
+            "DOMAIN": "Enter your domain name",
+            "EXPIREDAT": "expiration date",
+            "CHECKED": "on",
+            "UNCHECKED": "disabled",
+            "WARNING_NS": {
+                "TITLE": "Warning!",
+                "BODY": "To add DNS records, please complete the information in the WHOIS section"
+            },
+            "WARNING_DNS": {
+                "TITLE": "Warning!",
+                "BODY": "To add custom DNS servers, please complete the information in the WHOIS section"
+            },
+            "AUTORENEW": {
+                "TITLE": "Auto renew",
+                "ENABLE": "auto-renewal for domain is enabled",
+                "DISABLE": "auto-renewal for domain is disabled"
+            },
+            "HIDEDETAILS": {
+                "TITLE": "Hide details",
+                "ENABLE": "Hide details service is enabled",
+                "DISABLE": "Hide details service is disabled"
+            },
+            "HIDEDETAILSALLOW": {
+                "TITLE": "Hide details",
+                "BODY": "Data hiding service is not available to you"
+            },
+            "INVALIDNAME": {
+                "TITLE": "Error!",
+                "BODY": "Domain name is not valid"
+            },
+            "IS_DEFAULT_SERVER": {
+                "TITLE": "Error!",
+                "BODY": "This is default NS-server"
+            },
+            "REDIRECT": {
+                "TITLE": "Redirect set details",
+                "ENABLE": "Redirect is active",
+                "DISABLE": "Redirect is disactive",
+                "ERROR": "Something went wrong! Please try again",
+                "URLLABEL": "Redirect URL"
+            },
+            "TEMPLATE_EXIST_WARNING": {
+                "TITLE": "Oops",
+                "BODY": "You haven't template"
+            },
+            "TEMPLATE_NAME_DONT_EXIST": {
+                "TITLE": "Warning",
+                "BODY": "Please provide a template name"
+            }
+        },
+        "CHECK": {
+            "STATE": {
+                "AVAILABLE": "Available",
+                "NAME_TOO_SHORT": "Name too short",
+                "NAME_NOT_VALID": "Name not valid",
+                "NOT_ALLOWED": "Not allowed",
+                "BUSY": "Domain taken",
+                "ZONE_NOT_SUPPORTED": "Zone not supported",
+                "PREMIUM": "Premium name",
+                "PAYMENT": "This domain is assigned to you, please pay for it",
+                "ITS_YOUR": "This is your domain!"
+            }
+        },
+        "USEROFFER": {
+            "TITLE": "Make your offer for this domain",
+            "FIELD": {
+                "EMAIL": "Your e-mail",
+                "PRICE": "Your price (USD)",
+                "COMMENT": "Your comment"
+            }
+        },
+        "TRANSFER": {
+            "TITLE": "Transfer",
+            "CREATE_NEW": "Create new",
+            "PAY": "Pay and Transfer",
+            "TRANSFERS_NOT_FOUND": {
+                "TITLE": "Transfers not found"
+            },
+            "GET": {
+                "GET_AUTH_CODE": "Get Auth code",
+                "DESCRIPTION": "Auth code for transfer domain to another user"
+            },
+            "FORM": {
+                "EXTENSIONS_YEARS": "Extensions Years",
+                "HIDE_DETAILS": "Hide details",
+                "AUTO_RENEW": "Auto renew",
+                "WHOIS_CONTACTS": "Whois contacts",
+                "AUTH_CODE": "Auth Code",
+                "DOMAIN_NAME": "Domain name"
+            },
+            "WHOIS": {
+                "ADD_INFO": "Add information",
+                "USE_TEMPLATE": "Use template",
+                "PERSONAL_INFO": "Personal Info",
+                "ADDRESS_INFO": "Address Info",
+                "CONTACTS_INFO": "Contacts Info",
+                "WHOIS_CONTACTS": "Whois contacts",
+                "EDIT_WHOIS": "Edit WHOIS",
+                "DUPLICATE_ADM_DATA": "Duplicate data to the admin area",
+                "DUPLICATE_TECH_DATA": "Duplicate data to the tech area",
+                "ADM_INFO": "Administrator information",
+                "REG_INFO": "Registrant information",
+                "TECH_INFO": "Technical issues"
+            },
+            "DNS": {
+                "TITLE": "DNS management",
+                "ADD_NS_RECORDS": "Add NS Records"
+            },
+            "NS": {
+                "TITLE": "NS Settings",
+                "DEFAULT_SERVERS": "Default servers are used",
+                "ADD_NS": "Add NS",
+                "CHANGE_NS_ENTRY": "Change NS entry",
+                "EDIT_NS": "Edit NS"
+            },
+            "NOTIFICATIONS": {
+                "NOT_VALID_DOMAIN_NAME": {
+                    "TITLE": "Please check domain name",
+                    "BODY": "Must be yourdomain.{{domainZone}} format"
+                },
+                "NOT_UNIQUE_DNS_RECORD": {
+                    "TITLE": "Please check value in name field",
+                    "BODY": "Must be unique"
+                },
+                "DNS_RECORDS_VALIDATION": {
+                    "FINE": "All fine!",
+                    "DUPLICATE_VALUE_INSIDE_RECORDS": "Duplicate value inside records list",
+                    "NAME_IN_NS_CNAME": "Name is located in NS or CNAME records",
+                    "NAME_IN_RECORDS": "Name is located in records"
+                },
+                "AUTH_CODE": {
+                    "SUCCESS": {
+                        "TITLE": "Success!",
+                        "BODY": "Authorization code was sent to your email"
+                    }
+                },
+                "SAFE_AND_PAY": {
+                    "UNKNOWN_DOMAIN": "Unknown domain",
+                    "YOUR_DOMAIN": "Your domain",
+                    "INTERNAL_TRANSFER_IMPOSSIBLE": "Internal transfer impossible",
+                    "INVALID_AUTH_CODE": "Invalid auth code",
+                    "INVALID_RENEW_PERIOD": "Invalid renew period",
+                    "UNKNOWN_NS_TYPE": "Unknown NS type",
+                    "INTERNAL_ERROR": "Internal Error",
+                    "READY_FOR_PAY": "Ready to pay"
+                }
+            }
+        },
+        "RENEW": {
+            "TITLE": "Renew domains",
+            "NOTIFICATIONS": {
+                "ALLOW_RENEW": {
+                    "TITLE": "Unable to renew.",
+                    "DESCRIPTION": "Domain renewal is not available. Perhaps an invoice for payment has been generated earlier."
+                }
+            }
+        },
+        "HIDE_DETAILS": {
+            "DESCRIPTION": "Data hiding service for this domain is not included, but you can buy it, the price of the service is {{ price_value }} / year."
+        }
+    },
+    "WHOISCONTACT": {
+        "TITLE": "WHOIS Template",
+        "HELPER": "How to add a custom WHOIS Contact",
+        "REG": {
+            "TITLE": "WHOIS - contacts. Domain registrar"
+        },
+        "ADM": {
+            "TITLE": "WHOIS - contacts. Domain administrator"
+        },
+        "TECH": {
+            "TITLE": "WHOIS - contacts. Technical Issues"
+        },
+        "NS": {
+            "TITLE": "NS settings",
+            "VALID": {
+                "BODY": "Data is valid"
+            }
+        },
+        "DNS": {
+            "TITLE": "DNS management"
+        },
+        "ACTION": {
+            "CREATE": "Create WHOIS Template",
+            "EDIT": "Edit WHOIS Template",
+            "SAVED": "WHOIS Contact created successfully!",
+            "SEARCH": "Search WHOIS Contact",
+            "EDIT_REG": "Edit domain registrar contacts",
+            "EDIT_ADM": "Edit Administrator Contacts",
+            "EDIT_TECH": "Edit technical staff contacts",
+            "EDIT_NS": "Settings NS",
+            "ADDNS": "Add new NS",
+            "ADDDNS": "Add record"
+        },
+        "EDIT": {
+            "USE_TEMPLATE": "Use template",
+            "PERSONAL_INFO_TITLE": "Personal Info",
+            "ADDRESS_INFO_TITLE": "Address Info",
+            "CONTACTS_INFO_TITLE": "Contacts Info"
+        },
+        "FIELD": {
+            "DFL_TEMPLATE_NAME_FOR_I18N": "Default WHOIS template",
+            "TEMPLATE": "Template name",
+            "CLIENT": "Client",
+            "ORGANIZATION": "Company",
+            "NAME": "Name",
+            "EMAIL": "E-mail",
+            "PHONE": "Phone",
+            "FAX": "Fax",
+            "COUNTRY": "Country",
+            "REGION": "State",
+            "CITY": "City",
+            "ADDRESS": "Street, home, etc.",
+            "POSTCODE": "Postcode",
+            "FULL_ADDRESS": "Address",
+            "USEDEFAULT": "Use by default",
+            "NS_COMMON": "NS #",
+            "NS1": "NS #1",
+            "NS2": "NS #2",
+            "NS3": "NS #3",
+            "NS4": "NS #4",
+            "WHOIS": "Select an existing record",
+            "USE_TEMPLATE": "Use template",
+            "NS": {
+                "ISDEFAULT": "Default servers are used",
+                "UNCHECKED": "off",
+                "CHECKED": "on"
+            },
+            "RECORDS": "Records",
+            "TEMPLATES": "Templates",
+            "STATE": "State",
+            "ADDRESS_DEFAULT": "Address *",
+            "ADDRESS_ADDED": "Address2",
+            "CLIENT_NAME": "Name",
+            "REGISTRATOR_NAME": "Name",
+            "FIRST_NAME": "First name *",
+            "REQUIRED": "Required"
+        },
+        "MSG": {
+            "ISDEFAULT": "Default contacts",
+            "CHANGENS": "Before set your own NS, delete all entries with name @ in the DNS management block"
+        },
+        "TIPS": {
+            "DEFAULT_CONTACT": "This contact used by default",
+            "SEVERAL_ATTACHED": "This contact is attached to several domains"
+        }
+    },
+    "INVOICE": {
+        "TITLE": "Invoices",
+        "LABELS": {
+            "HISTORY": "History"
+        },
+        "HELPER": "How to create Invoice",
+        "ACTION": {
+            "CREATE": "Create Invoice",
+            "EDIT": "Edit Invoice",
+            "SAVED": "Invoice created successfully!",
+            "SEARCH": "Search Invoice",
+            "PAY": "Pay",
+            "REPEAT_PAY": "Repeat Pay",
+            "CANCEL": "Cancel"
+        },
+        "FIELD": {
+            "DATE": "Date",
+            "AMOUNT": "Amount",
+            "CURRENCY": "Currency",
+            "STATUS": "Status",
+            "NOTES": "Notes",
+            "TYPE": "Type",
+            "IDPAY": "ID PAY",
+            "CLIENT": "Client",
+            "POSITIONS": "Positions"
+        },
+        "TYPEPAY": {
+            "STRIPE": "Visa/MC",
+            "STRIPE_LINK": "Stripe service",
+            "PAYPAL": "PayPal",
+            "CRYPTO_COM": "Crypto",
+            "CLIENT_ACCOUNT": "Client account",
+            "ADMIN_DECISION": "Admin decision",
+            "STRIPE_INVOICE": "Stripe invoice"
+        },
+        "TYPEPOS": {
+            "SALE": "Domain registration",
+            "RENEW": "Domain renewal",
+            "HIDE": "Domain privacy",
+            "TRANSFER": "Domain transfer",
+            "CLIENT_ACCOUNT": "Client account",
+            "DEPOSIT_ACCOUNT": "Deposit account"
+        },
+        "STATUS": {
+            "NEW": "New",
+            "PAYMENT": "Payment",
+            "PAID": "Paid",
+            "CANCELLED": "Cancelled"
+        },
+        "MSG": {
+            "CANCELPAY": {
+                "TITLE": "Cancel payment",
+                "SUCCESS": "Completed",
+                "ERROR": "Error"
+            }
+        },
+        "ERROR": {
+            "TITLE": "Error",
+            "DESCRIPTION": "Something went wrong! Please try again"
+        }
+    },
+    "BALANCE": {
+        "TITLE": "Billing",
+        "PAYMENTS": "Payments",
+        "REMAINING": "Remaining funds",
+        "ACTION": {
+            "ADDFUNDS": "Add funds",
+            "WITHDRAW": "Withdraw"
+        }
+    },
+    "ZONE": {
+        "TITLE": "Zones",
+        "ACTION": {
+            "CREATE": "Create zone",
+            "EDIT": "Edit zone",
+            "SAVED": "Zone created successfully!"
+        },
+        "FIELD": {
+            "CREATEDATE": "Creation date",
+            "NAME": "Domain",
+            "DESCRIBE": "Note",
+            "CLOUDFLAREID": "Cloudflare ID"
+        }
+    },
+    "USER": {
+        "TITLE": "Users",
+        "ACTION": {
+            "CREATE": "Create user",
+            "EDIT": "Edit user",
+            "SAVED": "User created successfully!",
+            "EDITED": "User data saved successfully!",
+            "SEARCH": "Search user",
+            "TOGGLE": "Show more",
+            "CHANGEPASS": "  password",
+            "COPY": "Copy",
+            "GODOCS": "Go"
+        },
+        "TAB": {
+            "MAIN": "Main info",
+            "AFFILIATE": "Affiliate",
+            "SECURITY": "Security",
+            "NOTIFICATION": "Notification",
+            "CHANGE_COLOR_THEME": "Color theme",
+            "LOCALES": "Locales"
+        },
+        "FIELD": {
+            "NAME": "Name",
+            "CREATEDAT": "Created at",
+            "LOGIN": "Login",
+            "EMAIL": "Email",
+            "COUNTRY": "Country",
+            "FIRSTNAME": "First name",
+            "LASTNAME": "Last name",
+            "PHONE": "Phone number",
+            "CLIENT": "Client",
+            "SECURQUESTION": "Security question",
+            "SECURPIN": "Secure PIN",
+            "TIMEZONE": "Timezone",
+            "LANGUAGE": "Language",
+            "APIKEY": "Api key",
+            "PASSWORD": "New password",
+            "CONFIRMPASSWORD": "Confirm password",
+            "OLDPASSWORD": "Old password",
+            "ISLOCKED": "Is blocked?",
+            "STRICTSEARCH": "Strict search",
+            "SECRET": "Code",
+            "PUT_CODE": "Put code here",
+            "GETNOTIF1": "Get notifications from Service",
+            "GETNOTIF2": "Get notifications on campaigns and mailing lists approval",
+            "GETNOTIF3": "Get realtime notifications about each new subscriber",
+            "GETNOTIF4": "Get reports with campaigns statistics",
+            "LOCALE": "Locale"
+        },
+        "TEXT": {
+            "AUTH2F": {
+                "CLICK": "Click to open",
+                "DESCRIBE": "Two-factor authentication is a function that will help further protect your account from intruders entering it",
+                "ONSTEP1": "1. Install Google authenticator app (iOS/Android)",
+                "ONSTEP2": "2. Open the app and add your UniSender account. To do this, scan the QR code or enter the code:",
+                "ONSTEP3": "3. Enter the 6-digit code from the application and click “Enable”",
+                "AUTH2FON": "You have two-step authentication enabled via Google Authenticator",
+                "OFFSTEP1": "Enter the 6-digit code from the application and click button to Disable"
+            }
+        },
+        "MESS": {
+            "BLOCK": {
+                "TITLE": "Block",
+                "BODY": "Are you sure you want to block the user?",
+                "SUCCESS": "The user was successfully blocked!"
+            },
+            "UNBLOCK": {
+                "TITLE": "Unblock",
+                "BODY": "Are you sure you want to unblock the user?",
+                "SUCCESS": "The user was successfully unblocked!"
+            },
+            "COPY": {
+                "TITLE": "Key copied",
+                "SUCCESS": "The API key has been successfully copied to the clipboard.",
+                "ERROR": "The user does not have an API key"
+            },
+            "NOVALUE": "No value",
+            "CHANGEPASSWORD": {
+                "SUCCESS": {
+                    "BODY": "Password changed successfully!"
+                },
+                "VALIDATE": {
+                    "BODY": "Check if the fields are filled in correctly and try again"
+                }
+            }
+        },
+        "STAT": {
+            "ACTIVE": "Active",
+            "BLOCKED": "Blocked"
+        }
+    },
+    "CLIENT": {
+        "TITLE": "Clients",
+        "ACTION": {
+            "CREATE": "Create client",
+            "EDIT": "Edit client",
+            "SAVED": "Client created successfully!",
+            "EDITED": "Client data saved successfully!",
+            "SEARCH": "Search client",
+            "TOGGLE": "Toggle more",
+            "CHANGEPASS": "Change password"
+        },
+        "TAB": {
+            "MAIN": "Main info",
+            "AFFILIATE": "Affiliate",
+            "SECURITY": "Security"
+        },
+        "FIELD": {
+            "CREATEDATE": "Reg. date",
+            "REGIP": "Reg. IP",
+            "IPCOUNTRY": "IP country",
+            "NAME": "Name",
+            "SURNAME": "Surname",
+            "PRIMARYEMAIL": "Primary Email",
+            "BACKUPEMAIL": "BackUp Email",
+            "REFERENCEID": "Ref. ID",
+            "REFEMAIL": "Ref. E-mail",
+            "RESELLER": "Reseller",
+            "PRICELISTID": "Price List",
+            "DISCOUNTID": "Discount",
+            "VOLUMEDISCOUNT": "Volume discount",
+            "PHONE": "Phone",
+            "COMPANY": "Company",
+            "COUNTRY": "Country",
+            "ADDRESS": "Address: Street, home, etc.",
+            "TIMEZONE": "Timezone",
+            "CURRENCY": "Currency",
+            "TAXID": "Tax ID",
+            "NOTE": "Note",
+            "TYPE": "Type",
+            "STATE": "State"
+        },
+        "MESS": {
+            "BLOCK": {
+                "TITLE": "Block",
+                "BODY": "Are you sure you want to block the user?",
+                "SUCCESS": "The user was successfully blocked!"
+            },
+            "UNBLOCK": {
+                "TITLE": "Unblock",
+                "BODY": "Are you sure you want to unblock the user?",
+                "SUCCESS": "The user was successfully unblocked!"
+            },
+            "NOVALUE": "No value"
+        },
+        "STAT": {
+            "ACTIVE": "Active",
+            "BLOCKED": "Blocked"
+        }
+    },
+    "RESELLER": {
+        "TITLE": "Resellers",
+        "FIELD": {
+            "CREATEDATE": "Reg. date",
+            "EMAIL": "Login",
+            "COMPANY": "Company",
+            "STATE": "State",
+            "PRICELIST": "Price List",
+            "DISCOUNT": "Discount",
+            "MANAGER": "Manager",
+            "SUPPORTEMAIL": "Support Email",
+            "FINANCEEMAIL": "Finance Email",
+            "PHONE": "Phone",
+            "COUNTRY": "Country",
+            "ADDRPOSTCODE": "Address: Postcode",
+            "ADDRCOUNTRY": "Address: Country",
+            "ADDRCITY": "Address: City",
+            "ADDRPROVINCE": "Address: Province",
+            "ADDRADDRESS": "Address: Street, home, etc.",
+            "CURRENCY": "Currency",
+            "COMPANYID": "Company number",
+            "TAXID": "Tax ID",
+            "NOTE": "Note"
+        }
+    },
+    "NS_RECORD": {
+        "TITLE": "NS records",
+        "ACTION": {
+            "CREATE": "Add DNS record",
+            "EDIT": "Change DNS entry"
+        },
+        "FIELD": {
+            "CREATEDATE": "Record date",
+            "DOMAIN": "Domain",
+            "CLIENT": "Client",
+            "NAME": "Name",
+            "TYPE": "Type",
+            "VALUE": "Value",
+            "TTL": "TTL",
+            "PRIORITY": "Priority"
+        },
+        "MESS": {
+            "AUTO": "Auto",
+            "MIN": "min",
+            "HR": "hr",
+            "DAY": "day",
+            "A": "IPv4 address",
+            "AAAA": "IPv6 address",
+            "CNAME": "Target",
+            "MX": "Mail server",
+            "NS": "Name server",
+            "PTR": "PTR",
+            "TXT": "Content",
+            "DEFAULT": "Default Servers",
+            "LOW": "Low",
+            "HIGH": "High"
+        }
+    },
+    "PRICE_LIST": {
+        "TITLE": "Price lists",
+        "FIELD": {
+            "NAME": "Name",
+            "CREATEDAT": "Creation date",
+            "CHANGEDAT": "Changing date",
+            "EXPIREDAT": "Exp. Date (Arch)",
+            "STATE": "State",
+            "DEFUSERS": "Default for users",
+            "DEFRESELLERS": "Default for resellers",
+            "USERS": "Users list",
+            "RESELLERS": "Resellers list"
+        }
+    },
+    "PRICE": {
+        "TITLE": "Prices",
+        "FIELD": {
+            "PRICELIST": "Price list",
+            "TYPE": "Type",
+            "DOMAIN": "Domain",
+            "COLUMN1": "1",
+            "COLUMN2": "2",
+            "COLUMN3": "5",
+            "COLUMN4": "10"
+        }
+    },
+    "DISCOUNT": {
+        "TITLE": "Discounts",
+        "FIELD": {
+            "TYPE": "Type",
+            "DOMAIN": "Domain mask",
+            "COLUMN1": "100",
+            "COLUMN2": "500",
+            "COLUMN3": "1000",
+            "COLUMN4": "5000"
+        }
+    },
+    "BILLING": {
+        "TITLE": "Billing",
+        "FIELD": {
+            "CREATEDATE": "Transaction date",
+            "TYPE": "Transaction type",
+            "DOMAIN": "Domain",
+            "OWNER": "Owner's e-mail",
+            "AMOUNT": "Amount",
+            "CURRENCY": "Currency",
+            "AMOUNTUSD": "Amount in USD",
+            "PAYMENTTYPE": "Payment type",
+            "RESELLER": "Reseller",
+            "REF_ID": "Ref ID",
+            "REF_EMAIL": "Ref Email",
+            "PRIME_COST": "Prime cost",
+            "PROFIT": "Profit"
+        }
+    },
+    "PAYMENT": {
+        "TITLE": "Payments",
+        "FIELD": {
+            "CREATEDATE": "Transaction date",
+            "TYPE": "Transaction type",
+            "AMOUNT": "Amount",
+            "CURRENCY": "Currency",
+            "AMOUNTUSD": "Amount in USD",
+            "PAYMENTTYPE": "Payment type",
+            "PAYMENTSYSTEM": "Payment system"
+        }
+    },
+    "CART": {
+        "TITLE": "Your Cart",
+        "WIZARD": {
+            "STEPS": {
+                "CART": "Cart",
+                "LOGIN": "Log in / Sign Up",
+                "PAYMENT": "Pay"
+            },
+            "ACTION": {
+                "HIDE_ON": "Keep my personal information private",
+                "CONTINUE": "Pay",
+                "LOGIN": "Login and pay",
+                "REGISTER": "Sign Up and pay",
+                "SEARCH": "Search domain",
+                "CANCEL": "Cancel",
+                "LOGIN_TO_PROCEED": "Log In to Proceed"
+            },
+            "INVOICE": {
+                "TITLE": "Your order",
+                "TOTAL": "TOTAL",
+                "HIDE_NAME": "Hide information"
+            },
+            "LOGIN": {
+                "SOCIAL_NET": "Sign up using social network",
+                "DESCR_REG": "An email with a password to log in to your personal account will be sent to the specified address"
+            },
+            "PAYMENT": {
+                "CANCEL": {
+                    "MESSAGE": "Payment did not go through",
+                    "BUTTONSEARCH": "Back to search Domains",
+                    "BUTTONPAY": "To Invoices for payment",
+                    "BUTTONCART": "Back to Cart",
+                    "ERROR": "Error while canceling payment",
+                    "CANCELING_PROCESS": "Canceling invoice"
+                },
+                "SUCCESS": {
+                    "MESSAGE": "Payment was successful",
+                    "BUTTON": "Back to Dashboard"
+                },
+                "ERROR": {
+                    "BADDOMAIN": "Some of the domains you have selected are no longer available",
+                    "BADPROMO": "Promocode not applicable for this user",
+                    "BUTTON": "Back to Cart"
+                },
+                "CAPTURE": {
+                    "MESSAGE": "Payment is being made...",
+                    "BUTTON": "Back to Dashboard"
+                }
+            }
+        },
+        "MESS": {
+            "EMPTY": {
+                "TITLE": "Cart is empty",
+                "BODY": "No domains have been added to the cart at this time."
+            },
+            "PROMO": {
+                "TITLE": "Promotion code",
+                "CODE": "Enter code",
+                "USE": "Apply",
+                "ERROR": "Coupon error",
+                "SUCCESS": "Applied"
+            },
+            "ADD": {
+                "TITLE": "Cart",
+                "BODY": "The domain has been added to the cart"
+            },
+            "LIMIT": {
+                "TITLE": "Your cart is full",
+                "BODY": "Maximum number of domains 10"
+            },
+            "REMOVE": {
+                "TITLE": "Cart",
+                "BODY": "Domain has been removed from the cart"
+            }
+        },
+        "LABELS": {
+            "TOTAL": "Sub total",
+            "SUBTOTAL": "Subtotal",
+            "STRIPE_INFO": "We use Stripe for payments",
+            "CART_EMPTY": "Cart Empty",
+            "SEARCH_CHAT_BOT": "Try to search domains or return to Chat Bot",
+            "RETURN_TO_BOT": "Return to Chat Bot",
+            "TRY_TO_SEARCH": "Try to search domains"
+        }
+    },
+    "LOG": {
+        "TITLE": "Search query log",
+        "FIELD": {
+            "CREATEDAT": "Date / time",
+            "USERNAME": "Login",
+            "SEARCHREQUEST": "Request",
+            "SEARCHRESULT": "Result",
+            "RESULTSTATE": "State",
+            "RESULTPRICE": "Price",
+            "USERIP": "IP",
+            "ISP": "ISP",
+            "BROWSER": "Browser",
+            "OS": "OS",
+            "SCREEN": "Screen",
+            "COUNTRY": "Country",
+            "CITY": "City"
+        }
+    },
+    "DOCS": {
+        "API": {
+            "PDF": "API docs",
+            "SWAGGER": "API swagger docs"
+        }
+    },
+    "STOP_LIST": {
+        "TITLE": "Stop lists",
+        "FIELD": {
+            "MASKTYPE": "Mask type",
+            "DOMAINMASK": "Domain mask"
+        },
+        "MASKTYPES": {
+            "FULL_NAME": "Full name",
+            "DOMAIN_NAME": "Domain name",
+            "ZONE_NAME": "Zone name",
+            "VALID_ZONE": "Valid zone",
+            "FULL_NAME_MASK": "Regular mask"
+        }
+    },
+    "STORE": {
+        "LIST_TITLE": "Store",
+        "FAVORITES_TITLE": "Favorites",
+        "ACTIONS": {
+            "BUY": "Buy",
+            "BUY_NOW": "Buy now",
+            "SEARCH_BY_NAME": "Search by name",
+            "GO_TO_CART": "Go to cart",
+            "FIND_ANOTHER": "Find another domain"
+        },
+        "TABLE_LIST_HEAD": {
+            "NAME": "Name",
+            "CATEGORY": "Category",
+            "PRICE": "Price"
+        },
+        "FILTERS": {
+            "POPUP_TITLE": "Filters",
+            "POPUP_CLEAR": "Clear",
+            "NOTIFICATIONS": {
+                "INVALID_FILTER_FORM_DATA": {
+                    "TITLE": "Error!",
+                    "DESCRIPTION": "Please check if the form is filled in correctly"
+                },
+                "MIN_VALUE_MORE_MAX_VALUE": {
+                    "TITLE": "Warning!",
+                    "DESCRIPTION": "Max value must be more than min value"
+                },
+                "MAX_DOMAINS_AMOUNT": {
+                    "TITLE": "You cart is full",
+                    "DESCRIPTION": "Maximum number of domains 10"
+                }
+            },
+            "CATEGORIES": {
+                "TITLE": "Categories",
+                "SEARCH": "Search",
+                "CHECK_ALL": "Check all",
+                "UNCHECKED_ALL": "Unchecked all",
+                "SHOW_ALL": "Show all",
+                "HIDE": "Hide"
+            },
+            "BUDGET": {
+                "TITLE": "Budget",
+                "PRICE_MIN": "Min Price",
+                "PRICE_MAX": "Max Price",
+                "MIN": "Min",
+                "MAX": "Max"
+            },
+            "ADVANCED": {
+                "TITLE": "Advanced",
+                "HYPHENS": "Hyphens",
+                "NUMBERS": "Numbers",
+                "MIN_LENGTH": "Min length",
+                "MAX_LENGTH": "Max length",
+                "EXCLUDE_EXT": "Exclude extensions"
+            }
+        },
+        "OG_MARKUP": {
+            "TITLE": "Get a {{domain_name}} domain",
+            "ONLY_DOMAIN_TITLE": "{{domain_name}}",
+            "DESCRIPTION": " Register Your own domain name {{domain_name}}! Free SSL and Cloudflare support. High recognition of {{domainZone}} zone and solid SEO benefits.",
+            "FIRST_LEVEL_TITLE": "Register {{domain_name}} domain"
+        }
+    },
+    "SERVICE": {
+        "DOMAIN_REQUEST": {
+            "TITLE": "Enter your details and send a message to the owner",
+            "FIELD_LABELS": {
+                "NAME": "Name",
+                "EMAIL": "Email",
+                "MESSAGE": "Message"
+            },
+            "NOTIFICATIONS": {
+                "INVALID_FIELDS_DATA": {
+                    "TITLE": "Warning!",
+                    "DESCRIPTION": "Please check form is correctly"
+                },
+                "SEND_SUCCESS": {
+                    "TITLE": "Success!",
+                    "DESCRIPTION": "Message sent"
+                },
+                "DOMAIN_NOT_FOUND": {
+                    "TITLE": "Oops!",
+                    "DESCRIPTION": "Domain not found"
+                }
+            },
+            "TERMS1": "I agree with",
+            "TERMS2": "Terms of use",
+            "SEND_BTN_CONTENT": "Send message",
+            "SEND_BTN_PROCESS": "Process..."
+        },
+        "EMAIL_CONFIRM": {
+            "CONGRATS": "Congratulations!",
+            "OOPS": "Ooops!",
+            "CONFIRMED_MESS": "Your email address is confirmed"
+        }
+    },
+    "PAYMENT_METHODS": {
+        "MENU_TITLE": {}
+    },
+    "COLOR_THEME": {
+        "LIGHT": {
+            "THEME": "Light"
+        },
+        "DARK": {
+            "THEME": "Dark"
+        }
+    },
+    "NSM_MODULE": {
+        "LABELS": {
+            "NS_PREFIX": "NS",
+            "DEFAULT_SERVERS_USE": "Default servers are used",
+            "EDIT_GLUE": "Edit Glue",
+            "SAVE": "Save",
+            "ADD_NS": "Add NS Record",
+            "ADD_GLUE": "Add Glue Record"
+        }
+    },
+    "AUTH_UD_MODULE": {
+        "METHODS": {
+            "GOOGLE": "Continue with Google",
+            "FACEBOOK": "Continue with Facebook",
+            "TWITTER": "Continue with Twitter"
+        },
+        "TITLES": {
+            "DOUBLE_EMAIL_CHECK": "Double check your email",
+            "PASSWORD": "Enter your password",
+            "CHECK_INBOX": "Check your inbox. We’ve sent you a link to proceed",
+            "EMAIL_VERIFICATION": "Enter your email",
+            "CHECK_EMAIL_FOR_RESET_PASSWORD_SUCCESS": "Check your inbox. We've sent you a link to reset password"
+        },
+        "LABELS": {
+            "ENTER_EMAIL_AGAIN": "Enter email again",
+            "ENTER_PASSWORD": "Enter password",
+            "PASS_ALTERNATIVE": "Or Log In with Password",
+            "VERIFICATION_LINK": "We will send you a verification link",
+            "RESET_PASSWORD_LINK": "We will send you link to reset password",
+            "T_FA": "Two-factor code"
+        },
+        "CONTINUE_EMAIL": "Continue with Email",
+        "PRIVACY_DISCLAIMER": {
+            "TOKEN_1": "By proceeding you consent and agree with our",
+            "TOKEN_2": "Privacy Policy",
+            "TOKEN_3": "",
+            "TOKEN_4": "and"
+        },
+        "NOTIFICATIONS": {
+            "EMAIL_IN_BLACKLIST": {
+                "TITLE": "Something went wrong!",
+                "DESCRIPTION": "Action not possible, try another email"
+            },
+            "IP_ADDRESS_NOT_ALLOWED": {
+                "DESCRIPTION": "This IP is not in the list of allowed IPs for this login"
+            }
+        },
+        "ERRORS": {
+            "EMAIL_INVALID": "Email is not valid"
+        }
+    },
+    "FAQ": {
+        "TITLE": "Frequently Asked Questions"
+    },
+    "DOMAIN_SALE": {
+        "AVAILABLE_LABEL": "Domain Available",
+        "ALSO_LIKE_TITLE": "You may also like",
+        "SUGGESTED_AI": "Suggested by AI",
+        "LABELS": {
+            "BUY_PREMIUM": "Buy Premium Domain",
+            "PROCESSING": {
+                "SUCCESS": {
+                    "TITLE": "Congratulations!",
+                    "DESCRIPTION": "To set preferences, open the dashboard",
+                    "ACTION": "Go to My Domains"
+                },
+                "DECLINE": {
+                    "TITLE": "Payment Declined",
+                    "DESCRIPTION": "You can complete the purchase by paying the invoice",
+                    "ACTION": "Go to Invoices"
+                }
+            },
+            "FIRST_YEAR": "first year",
+            "PER_YEAR": "per year",
+            "PROMO_CODE_TIP": "Renews at {{price}} next year."
+        },
+        "BENEFITS": {
+            "1": "1 year's ownership",
+            "2": "Hidden WHOIS data",
+            "3": "Easy Cloudflare integration"
+        },
+        "BENEFITS_ALT1": {
+            "1": "DNS Records Control",
+            "2": "Free Domain Redirect",
+            "3": "WHOIS Privacy Protection",
+            "4": "Two-Factor Authentication"
+        },
+        "CREATE_INVOICE_STATUSES": {
+            "PREMIUM_NAME_NOT_ALLOWED": {
+                "TITLE": "Premium name not allowed"
+            },
+            "CURRENCY_NOT_AVAILABLE": {
+                "TITLE": "It is not possible to create a payment invoice in {{currency}} currency"
+            },
+            "DOMAIN_NAME_REQUIRED": {
+                "TITLE": "No domain name specified"
+            },
+            "CLIENT_NOT_FOUND": {
+                "TITLE": "Customer not found"
+            },
+            "PROMOCODE_NOT_ALLOWED": {
+                "TITLE": "Promocode not allowed"
+            },
+            "ZONE_NOT_SUPPORTED": {
+                "TITLE": "Zone not supported"
+            },
+            "INVALID_DOMAIN_NAME": {
+                "TITLE": "Invalid domain name"
+            },
+            "DOMAIN_EXISTS": {
+                "TITLE": "Domain exist"
+            },
+            "YEARS_RANGE_ERROR": {
+                "TITLE": "An unacceptable number of lease years"
+            }
+        },
+        "STATUSES": {
+            "AVAILABLE": {
+                "TITLE": "Domain Available",
+                "ALT_TITLE": "Exact Match"
+            },
+            "PREMIUM": {
+                "TITLE": "This is a Premium domain",
+                "ALT_TITLE": "Premium domain",
+                "DESCRIPTION": "But it's for sale. Click on the button below to find out more"
+            },
+            "TAKEN": {
+                "TITLE": "Domain Taken",
+                "DESCRIPTION": "Search again"
+            },
+            "INVALID": {
+                "TITLE": "Invalid Domain",
+                "DESCRIPTION": "Search again"
+            },
+            "NOT_ALLOWED": {
+                "TITLE": "Not Allowed",
+                "DESCRIPTION": "Search again"
+            },
+            "PAYMENT": {
+                "TITLE": "This domain is assigned to you, please pay for it",
+                "DESCRIPTION": ""
+            },
+            "INVOICE_PENDING": {
+                "TITLE": "Invoice Pending"
+            }
+        },
+        "INFO": {
+            "RECORD_1": {
+                "TITLE": "Control",
+                "MORE": "Full control over DNS and other settings, ensuring flexibility."
+            },
+            "RECORD_2": {
+                "TITLE": "Reliability",
+                "MORE": "Guaranteed stability, transparency and responsive support."
+            },
+            "RECORD_3": {
+                "TITLE": "Transferability",
+                "MORE": "Domains transfers are possible, allowing for easy migration between registrars."
+            }
+        },
+        "SEARCH": {
+            "TITLE": "We Have a Lot of Domains",
+            "CTA": "Find yours!"
+        },
+        "DESCRIPTIONS": {
+            "AI_SEARCH_TIP": "We use AI to improve your domain name search experience. Based on the data you enter, it suggests additional options related to your main query."
+        }
+    },
+    "CHAT": {
+        "CTA": "Leave a review",
+        "DESCRIPTION": "Tell us how the payment process could be improved? What was good and what were the difficulties?"
+    },
+    "SITES": {
+        "CONFIRM_EDITING": {
+            "TITLE": "We have created a project for you, to start editing - follow this link",
+            "LINK_LABEL": "Follow the link"
+        }
+    },
+    "IS_ART": {
+        "LABELS": {
+            "SEARCH_TITLE": "Search",
+            "CHOOSE_DOMAIN": "Choose your domain",
+            "CREATE_SITE": "Create Site",
+            "START_TRIAL": "Create a website. Start a trial!"
+        },
+        "SEARCH_PAGE": {
+            "TITLE": "Start by choosing your domain",
+            "SUBTITLE": "Search now and claim your space in the .is.art community!"
+        },
+        "CARD_PAGE": {
+            "AVAILABLE_DESCRIPTION": "Domain is available! Click below to register it with one of our partners! You can check the prices on their websites."
+        },
+        "WELCOME_DEFAULT": {
+            "HERO": {
+                "TITLE": "Anything.{{zone}} — \nWhere Anything Becomes Art",
+                "SUBTITLE": "Your name, your brand, your passion — turn it into a stunning website. Create your personal space online with [anything].{{zone}}.",
+                "CTA": "Create Your Site Now"
+            },
+            "PERSONAL_CANVAS": {
+                "TITLE": "Your Personal Canvas Online",
+                "SUBTITLE": "With [anything].{{zone}}, you get more than just a website — you get a fully crafted digital space that reflects your creativity.",
+                "ARTICLES": {
+                    "1": {
+                        "TITLE": "Unique Address",
+                        "DESCRIPTION": "Choose any word, name, or idea — [anything].{{zone}} is your personal URL. Short, catchy, and unforgettable."
+                    },
+                    "2": {
+                        "TITLE": "Beautiful Templates",
+                        "DESCRIPTION": "Start with stunning, art-inspired designs. Whether you're a painter, musician, or photographer, we have the perfect template for you."
+                    },
+                    "3": {
+                        "TITLE": "Easy-to-Use Builder",
+                        "DESCRIPTION": "No coding needed. Drag, drop, and customize your site with our intuitive editor."
+                    },
+                    "4": {
+                        "TITLE": "All-in-One Solution",
+                        "DESCRIPTION": "Hosting, design, and publishing — everything you need to create and share your art online."
+                    }
+                }
+            },
+            "STEPS": {
+                "TITLE": "Create Your Site in 3 Simple Steps",
+                "ARTICLES": {
+                    "1": {
+                        "TITLE": "Choose Your Name",
+                        "DESCRIPTION": "Pick any word, name, or idea — [anything].{{zone}} is yours."
+                    },
+                    "2": {
+                        "TITLE": "Design Your Space",
+                        "DESCRIPTION": "Use our drag-and-drop editor to create a site that reflects your unique style."
+                    },
+                    "3": {
+                        "TITLE": "Share Your Art",
+                        "DESCRIPTION": "Publish your site and share it with the world. Your art, your way."
+                    }
+                }
+            },
+            "TEMPLATES": {
+                "TITLE": "Art-Inspired Templates for Every Creator",
+                "DESCRIPTION": "Start with a design that matches your vision. From minimalist portfolios to vibrant galleries, we have the perfect template for you.",
+                "ARTICLES": {
+                    "1": {
+                        "TITLE": "Portfolio Template",
+                        "DESCRIPTION": "Showcase your work with a clean, professional layout."
+                    },
+                    "2": {
+                        "TITLE": "Gallery Template",
+                        "DESCRIPTION": "Display your art in a stunning, full-screen gallery."
+                    },
+                    "3": {
+                        "TITLE": "Music Template",
+                        "DESCRIPTION": "Share your music with a sleek, audio-focused design."
+                    },
+                    "4": {
+                        "TITLE": "Blog Template",
+                        "DESCRIPTION": "Tell your story with a beautifully designed blog."
+                    }
+                },
+                "LABELS": {
+                    "VIEW_ALL_TEMPLATES": "View All 200+ Templates",
+                    "TEMPLATES": "Templates",
+                    "START_CREATING": "Start Creating"
+                }
+            },
+            "MASTERPIECE": {
+                "TITLE": "Everything You Need to Create Your Digital Masterpiece",
+                "ARTICLES": {
+                    "1": {
+                        "TITLE": "Drag-and-Drop Editor",
+                        "DESCRIPTION": "Customize your site with ease. Add text, images, videos, and more — no coding required."
+                    },
+                    "2": {
+                        "TITLE": "Art-Inspired Design",
+                        "DESCRIPTION": "Choose from a collection of templates designed specifically for artists and creators."
+                    },
+                    "3": {
+                        "TITLE": "Reliable Hosting",
+                        "DESCRIPTION": "Your site is always online, with fast loading times and 99.9% uptime."
+                    },
+                    "4": {
+                        "TITLE": "Social Integration",
+                        "DESCRIPTION": "Share your site on social media with beautiful previews and easy links."
+                    }
+                }
+            },
+            "BENEFITS": {
+                "TITLE": "Try for Free!",
+                "DESCRIPTION": "One month free. Then only {{price}}/month. No credit card details required.",
+                "LIST": {
+                    "1": {
+                        "TITLE": "Unique address"
+                    },
+                    "2": {
+                        "TITLE": "Drag & drop builder"
+                    },
+                    "3": {
+                        "TITLE": "Hosting included"
+                    },
+                    "4": {
+                        "TITLE": "200+ templates"
+                    },
+                    "5": {
+                        "TITLE": "Many plugins"
+                    },
+                    "6": {
+                        "TITLE": "Ecommerce support"
+                    },
+                    "7": {
+                        "TITLE": "Seo friendly"
+                    },
+                    "8": {
+                        "TITLE": "Website import"
+                    }
+                },
+                "CTA": "Start Free Trial"
+            },
+            "QUESTIONS": {
+                "TITLE": "Frequently Asked Questions",
+                "QUESTIONS_LIST": {
+                    "1": {
+                        "TITLE": "Can I use my own domain?",
+                        "DESCRIPTION": "No, is.art provides unique addresses like [anything].{{zone}}, which work exclusively within our platform."
+                    },
+                    "2": {
+                        "TITLE": "Do I need coding skills?",
+                        "DESCRIPTION": "No, our editor is designed for everyone. Just drag, drop, and create."
+                    },
+                    "3": {
+                        "TITLE": "Can I change my site's design later?",
+                        "DESCRIPTION": "Yes, you can edit your site anytime to match your evolving style."
+                    }
+                }
+            }
+        }
+    }
+}
