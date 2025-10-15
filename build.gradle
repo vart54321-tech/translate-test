@@ -33,6 +33,10 @@ dependencies {
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
     implementation("org.gitlab4j:gitlab4j-api:6.0.0")
+    implementation('com.github.fge:json-patch:1.9')
+    implementation("com.google.guava:guava:33.4.8-jre")
+    implementation 'org.eclipse.jgit:org.eclipse.jgit:6.9.0.202403050737-r'
+
 }
 
 tasks.named('test') {
