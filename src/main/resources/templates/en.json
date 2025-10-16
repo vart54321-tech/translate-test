@@ -1,11 +1,11 @@
 {
     "MENU": {
-        "HOME": "Haame page",
+        "HOME": "Home page",
         "ADMIN": {
             "TITLE": "Admin"
         },
         "ZONE": {
-            "TITLE": ""
+            "TITLE": "Domain zones"
         },
         "DOMAIN": {
             "TITLE": "Domains",
