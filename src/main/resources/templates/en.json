@@ -1,8 +1,8 @@
 {
     "MENU": {
-        "HOME": "Home page",
+        "HOME": "Home ",
         "ADMIN": {
-
+            "TITLE": "Admin"
         },
         "ZONE": {
             "TITLE": "Domain zones"
