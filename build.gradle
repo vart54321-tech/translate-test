@@ -36,6 +36,8 @@ dependencies {
     implementation('com.github.fge:json-patch:1.9')
     implementation("com.google.guava:guava:33.4.8-jre")
     implementation 'org.eclipse.jgit:org.eclipse.jgit:6.9.0.202403050737-r'
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.17.0'
+
 
 }
 
